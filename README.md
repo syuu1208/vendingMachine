@@ -6,7 +6,7 @@
 - tkinter library 
 
 ### Instructions
-1. Run tkintervending.py
+1. Run tkintervending.py (please download the images to the same working directory as well)
 
 2. Enter the amount of money.
   
